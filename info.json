@@ -1,1 +1,29 @@
 
+{
+  "name": "SCINET",
+  "tokenSymbol": null,
+  "DaoOS": "Snapshot",
+  "address": "",
+  "description": "SCINET is building a suite of dapps to increase the speed, accuracy, and effectiveness of life sciences research",
+  "whitePaperLink": "https://drive.google.com/file/d/1BSchUsKN8IiyTQ-cwHCkK7VQDga-Szdv/view?usp=share_link",
+  "gallery": [],
+  "deleted": false,
+  "primaryColor": "#7401b8",
+  "twitterHandle": "SCINET_INC",
+  "coingeckoId": null,
+  "snapshotId": null,
+  "logo": "https://i.imgur.com/K9NGPju.jpg",
+  "telegramLink": null,
+  "discordLink": null,
+  "website": "https://www.scinet.one",
+  "tokenDescription": null,
+  "tokenTradeLink": null,
+  "tags": [
+    "Ecosystems",
+    "Publishing",
+    "Decentralized biotech",
+    "NFTs",
+    "Decentralized funding",
+    "Science DeFi"
+  ]
+}
